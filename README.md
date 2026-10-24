@@ -2,6 +2,12 @@
 
 Offline vertaler.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveTranslate](https://dravenlock.nl/video/DraveTranslate.jpg)](https://dravenlock.nl/video/DraveTranslate.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveTranslate.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Tools en kantoor · versie 0.1.3*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
